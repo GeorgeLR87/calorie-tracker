@@ -63,9 +63,9 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
-Your Name - @your_twitter - your_email@example.com
+Github - @GeorgeLR87 - jorgelrgarduno@gmail.com
 
-Project Link: https://github.com/yourusername/calorie-tracker
+Project Link: https://github.com/GeorgeLR87/calorie-tracker.git
 
 # React + TypeScript + Vite
 
